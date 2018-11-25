@@ -8,8 +8,8 @@ body {
 div {
   /* Your code here! */
 width: 700px;
-  margin: auto;
-  font-style: font-family:"Helvetiva Neue";
+margin: auto;
+font-family:"Helvetiva Neue";
 }
 
 /* ID selector to select the element with id 'main-header' */
@@ -22,5 +22,6 @@ width: 700px;
 .perspective-questions {
   /* Your code here! */
 font-style: italic;
+font-family:"Helvetiva Neue"
   
 }
